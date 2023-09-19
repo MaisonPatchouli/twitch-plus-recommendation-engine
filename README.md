@@ -1,7 +1,11 @@
 # Twitch+ Recommendation Engine
 
+[![Demo](https://img.shields.io/badge/demo-live-brightgreen.svg)](https://ysnrh2mxp3.us-east-2.awsapprunner.com/)
+
 ## Overview
 A full-stack Spring Boot application designed to offer users personalized Twitch resource recommendations, enhancing their streaming experience.
+
+### [Live Demo](https://ysnrh2mxp3.us-east-2.awsapprunner.com/)
 
 ## Features
 - **User Authentication**: Secure register, login, and logout features using Spring Security.
