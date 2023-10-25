@@ -10,7 +10,6 @@ A full-stack Spring Boot application designed to offer users personalized Twitch
 ## Features
 - **User Authentication**: Secure register, login, and logout features using Spring Security.
 - **Resource Recommendations**: Content-based recommendation algorithms for personalized suggestions.
-- **Data Visualization**: Time-series visualizations of NFT assets created using React and Rechart.
 - **RESTful APIs**: Implemented using Java Servlets to fetch real Twitch resources using the Twitch API.
 
 ## Technologies Used
