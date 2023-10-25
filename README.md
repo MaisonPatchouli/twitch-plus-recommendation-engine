@@ -1,6 +1,7 @@
 # Twitch+ Project
 
-[![Demo](https://img.shields.io/badge/-Demo-brightgreen?style=for-the-badge)](https://ysnrh2mxp3.us-east-2.awsapprunner.com)
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen?style=for-the-badge)](https://ysnrh2mxp3.us-east-2.awsapprunner.com/)
+
 
 In the domain of live streaming and video content, the significance of recommendation systems is growing rapidly. To address this demand and enhance my skills, I initiated the "Twitch+" project, aiming to optimize the recommendation experience on Twitch-related platforms.
 
